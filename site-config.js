@@ -1,7 +1,7 @@
 module.exports = {
   // App Info
   appstore_link         : "https://apps.apple.com/us/app/frezh-org/id1483367809",
-  playstore_link        : "",
+  playstore_link        : "https://play.google.com/store/apps/details?id=com.buiquockhanh.frezh",
   google_analytics_ID   : "UA-121546163-5",                                        // Enter Google Analytics ID or ""
   presskit_download_link: null,                                  // Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
   video_or_screenshot   : "screenshot",                                           // "screenshot" or "video"
